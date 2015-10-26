@@ -1,3 +1,3 @@
 # hello-world
 
-Good Bye curel World!
+Good Bye cruel World!
